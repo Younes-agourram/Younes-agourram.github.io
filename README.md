@@ -13,6 +13,7 @@ This repository will hold assignments.
      - I also enjoy outdoor activities like tennis and playing soccer, which help me maintain a balanced and active lifestyle.
 
      - I have a passion for technology, math, and programming.
+     
 ## Websites I Recommend
 
      - [YouTube](https://www.youtube.com/) - A video-sharing platform where I can watch tutorials, educational videos, and tech content related to math, programming, and cybersecurity.
