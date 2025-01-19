@@ -2,7 +2,7 @@
 flowchart TD
     A([Start]) --> B[Generate Random Number]
     B --> C[Ask User for Guess]
-    C --> D[Is Input Valid?]
+    C --> D{Is Input Valid?}
     D -- No --> E[Display Invalid Input]
     E --> C
     D -- Yes --> F{Is Guess Correct?}
